@@ -15,3 +15,16 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+## NFT collection on Opensea
+<img
+              src="opensea.png"
+              alt=""
+              height="300"
+              width="550"
+            />
+<img
+              src="nft.png"
+              alt=""
+              height="300"
+              width="550"
+            />
